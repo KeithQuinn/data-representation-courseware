@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+    <techBooks>     
+        <book isbn="819202">
+            <title>Science and Technology</title>
+            <author>John Reilly</author>
+        </book>
+
+        <book isbn="789101">
+           <title>Data Science</title>
+           <author>Mary Kilmartin</author>
+        </book>
+    </techBooks>
+
+    <cookBooks>
+        <book isbn="112131">
+           <title>Cheat Meals</title>
+           <author>Martin Dunne</author>
+        </book>
+
+        <book isbn="516171">
+           <title>Healthy Eating</title>
+           <author>James Dunne</author>
+        </book>
+    </cookBooks>
+
+</library>
